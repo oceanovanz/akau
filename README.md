@@ -32,11 +32,6 @@ Features
   - Max DEM size slider (keeps large rasters responsive)
   - Timing HUD (read / grid / build)
 
----
-
- Screens & GIFs
-
-_Add your screenshots or a short GIF here (e.g., `docs/` folder)._
 
 ---
 
