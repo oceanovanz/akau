@@ -19,14 +19,14 @@ Features
 - Gridding & smoothing
   - Block-median prefilter (cell size control)
   - Regular grid build with interpolation (**linear / nearest / cubic**)
-  - Automatic NaN handling; grid decimation if > ~2 M cells for smooth interaction
+  - Automatic NaN handling; grid decimation if > 2 M cells for smooth interaction
 - 3D rendering
   - Smooth shading by default; optional PBR 
   - Normal exaggeration control and silhouette 
   - Colormaps: viridis, turbo, terrain, cividis, plasma, magma, gray
   - Lighting controls sun azimuth/elevation/intensity, ambient
 - Tools
-  - Pick 2 points → Profile distance vs. elevation/depth; uses SciPy if available
+  - Pick 2 points Profile distance vs. elevation/depth; uses SciPy if available
   - Toggle axes; Save screenshot
 - UX
   - Max DEM size slider (keeps large rasters responsive)
